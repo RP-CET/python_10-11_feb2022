@@ -22,5 +22,5 @@ https://www.jetbrains.com/pycharm/
 ## Some Free Online Python ebooks 
 https://inventwithpython.com/
 
-## Practice Questions on Python (Based on Python 2)
-http://www.pyschools.com/ (200+ questions for beginner to intermediate level coders)
+## Practice Questions on Python
+https://codingbat.com/python
